@@ -12,7 +12,7 @@
         mc:Ignorable="d"
         Title="关于" Height="320" Width="240">
     <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top">
-        <Image Source="/Asset/Image/About/yanye.png" Width="100" Height="auto" Margin="40,25,40,0"/>
+        <Image Source="/Asset/Image/About/about.png" Width="100" Height="100" Margin="40,25,40,0"/>
         <TextBlock Text="notepad#" TextAlignment="Center" FontSize="24"/>
         <TextBlock Text="一个WPF框架的记事本" TextAlignment="Center" FontSize="16" Margin="5"/>
         <TextBlock Text="版本：0.1" TextAlignment="Center" FontSize="16" />

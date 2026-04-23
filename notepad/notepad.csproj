@@ -6,7 +6,7 @@
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
         <UseWPF>true</UseWPF>
-        <ApplicationIcon>Asset\Image\Icon\yanye128x128.ico</ApplicationIcon>
+        <ApplicationIcon>Asset\Image\Icon\笔记_notes_00001.ico</ApplicationIcon>
     </PropertyGroup>
 
     <ItemGroup>
@@ -17,7 +17,11 @@
 
     <ItemGroup>
       <None Remove="Asset\Image\About\yanye.png" />
-      <Resource Include="Asset\Image\About\yanye.png" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Asset\Image\About\about.png" />
+      <Resource Include="Asset\Image\About\about.png" />
     </ItemGroup>
 
 </Project>

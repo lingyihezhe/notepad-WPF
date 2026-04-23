@@ -28,3 +28,4 @@ C:\Users\lingyi\Desktop\notepad\notepad\obj\Release\net10.0-windows\refint\notep
 C:\Users\lingyi\Desktop\notepad\notepad\obj\Release\net10.0-windows\notepad.pdb
 C:\Users\lingyi\Desktop\notepad\notepad\obj\Release\net10.0-windows\notepad.genruntimeconfig.cache
 C:\Users\lingyi\Desktop\notepad\notepad\obj\Release\net10.0-windows\ref\notepad.dll
+C:\Users\lingyi\Desktop\notepad\notepad\obj\Release\net10.0-windows\notepad.sourcelink.json

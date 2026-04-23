@@ -28,3 +28,4 @@ C:\Users\lingyi\Desktop\notepad\notepad\obj\Debug\net10.0-windows\View\FontDialo
 C:\Users\lingyi\Desktop\notepad\notepad\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\lingyi\Desktop\notepad\notepad\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\lingyi\Desktop\notepad\notepad\bin\Debug\net10.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\lingyi\Desktop\notepad\notepad\obj\Debug\net10.0-windows\notepad.sourcelink.json
