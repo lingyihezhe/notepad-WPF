@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net10.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UseWPF>true</UseWPF>
+        <ApplicationIcon>Asset\Image\Icon\yanye128x128.ico</ApplicationIcon>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.2" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="11.0.0-preview.3.26207.106" />
+      <PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.142" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Asset\Image\About\yanye.png" />
+      <Resource Include="Asset\Image\About\yanye.png" />
+    </ItemGroup>
+
+</Project>

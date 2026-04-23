@@ -1,0 +1,54 @@
+﻿License notice for CommunityToolkit.Mvvm (v8.4.2)
+------------------------------------
+
+https://github.com/CommunityToolkit/dotnet at 35dfe7b12da0e64384bfaec7ebc0883196a89f9f
+
+(c) .NET Foundation and Contributors. All rights reserved.
+
+Licensed under MIT
+
+Available at https://licenses.nuget.org/MIT
+
+
+License notice for Microsoft.Extensions.DependencyInjection (v11.0.0-preview.3.26207.106)
+------------------------------------
+
+https://github.com/dotnet/dotnet at a8b33e7593686eaee701cd124daaabff2311634f
+
+https://dot.net/
+
+Copyright © Microsoft Corporation. All rights reserved.
+
+Licensed under MIT
+
+Available at https://licenses.nuget.org/MIT
+
+
+License notice for Microsoft.Xaml.Behaviors.Wpf (v1.1.142)
+------------------------------------
+
+https://github.com/microsoft/XamlBehaviorsWpf at eaf05bcb7395e3fbbb930f863180defc8e9928f7
+
+https://github.com/Microsoft/XamlBehaviorsWpf
+
+Copyright © Microsoft Corporation. All rights reserved.
+
+Licensed under MIT
+
+Available at https://licenses.nuget.org/MIT
+
+
+License notice for Microsoft.Extensions.DependencyInjection.Abstractions (v11.0.0-preview.3.26207.106)
+------------------------------------
+
+https://github.com/dotnet/dotnet at a8b33e7593686eaee701cd124daaabff2311634f
+
+https://dot.net/
+
+Copyright © Microsoft Corporation. All rights reserved.
+
+Licensed under MIT
+
+Available at https://licenses.nuget.org/MIT
+
+

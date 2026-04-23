@@ -1,0 +1,91 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "notepad/1.0.0": {
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.4.2",
+          "Microsoft.Extensions.DependencyInjection": "11.0.0-preview.3.26207.106",
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.142"
+        },
+        "runtime": {
+          "notepad.dll": {}
+        }
+      },
+      "CommunityToolkit.Mvvm/8.4.2": {
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "assemblyVersion": "8.4.0.0",
+            "fileVersion": "8.4.2.1"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/11.0.0-preview.3.26207.106": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "11.0.0-preview.3.26207.106"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.20806"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/11.0.0-preview.3.26207.106": {
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.20806"
+          }
+        }
+      },
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.142": {
+        "runtime": {
+          "lib/net8.0-windows7.0/Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.142.60144"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "notepad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommunityToolkit.Mvvm/8.4.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WadCzGEc2U+3e20avRLng4qNtt4zoOGWrdUISqJWrHe3/FSnrYjuM5Sb4yQb09LhkBXrrI4Zt3dLKgRMbItsrg==",
+      "path": "communitytoolkit.mvvm/8.4.2",
+      "hashPath": "communitytoolkit.mvvm.8.4.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection/11.0.0-preview.3.26207.106": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aq5Lc0SLQiJGRauG829dTpoMygFLpuelBspnnNi4rRKa8C8eqruxdrCIzJ0po2NQlpgoNprHlC0vQsT0fDxH4w==",
+      "path": "microsoft.extensions.dependencyinjection/11.0.0-preview.3.26207.106",
+      "hashPath": "microsoft.extensions.dependencyinjection.11.0.0-preview.3.26207.106.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/11.0.0-preview.3.26207.106": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+gJnv1/kfXLXPv21R3iluhKqfXdf2zPWUaHBiSvlJurThv2D5HRUfU5z5SpmBII4I0JSpuprX9DlHrKz/1wCXA==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/11.0.0-preview.3.26207.106",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.11.0.0-preview.3.26207.106.nupkg.sha512"
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.142": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-c47wA/8GHiQ9w+O6+mdqrZhZrxHogx2/fSZyRKL9tz0k+ypoTiwOx6fID0X3jr5LnCazJbCk7KiAcL0zVnNgNA==",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.142",
+      "hashPath": "microsoft.xaml.behaviors.wpf.1.1.142.nupkg.sha512"
+    }
+  }
+}
